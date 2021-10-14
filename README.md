@@ -11,4 +11,4 @@ The silverchain:
 - Allows users to create wallets with ‘new Wallet()
 - Provides wallets with public and private keys using Elliptic-Curve cryptography
 - Secures the transfer of funds, by using a digital signature algorithm to prove ownership
-- Finally allow users to make transactions on the blockchain with ‘Block.addTransaction(walletA.sendFunds( walletB.publicKey, 20));
+- Finally allow users to make transactions on the blockchain with ‘Block.addTransaction(walletA.sendFunds( walletB.publicKey, 20))
